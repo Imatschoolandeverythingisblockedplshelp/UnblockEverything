@@ -1,7 +1,7 @@
 # UBE Download Website
 Welcome To The Offical Unblock Everything 2.0.0 BETA
 
-We Are Happy To Announce Adding We Have Finnally Made It Way better With Extra Features And More Coming Up!
+We Are Happy To Announce That We Have Finally Made It Way better With Extra Features And More Coming Up!
 
 Features That Are Here
 - A Fully Functining Chromium Based Webbrowser
